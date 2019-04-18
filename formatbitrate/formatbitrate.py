@@ -8,3 +8,6 @@ class FormatBitratePlugin (GObject.Object, Peas.Activatable):
 
     def do_activate(self):
         print("Hello World")
+
+    def do_deactivate(self):
+        del self.string
