@@ -1,9 +1,0 @@
-[Plugin]
-Loader=python3
-Module=formatbitrate
-IAge=2
-Name=FormatBitrate
-Description=Filter music by file format and bitrate
-Authors=jeremiahsavage@gmail.com
-Copyright=Copyright © 2019 Jeremiah H. Savage
-Website=https://github.com/jeremiahsavage/rhythmbox-format-bitrate
